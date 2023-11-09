@@ -5,6 +5,7 @@
 
 int main()
 {
+	printf("hello");
 	int x[N][N], y[N][N], z[N][N] = {0};
 	for (int i = 0; i < N; i++)
 		for (int j = 0; j < N; j++)
